@@ -33,4 +33,4 @@ Bu proje **Yasin KISA** tarafından geliştirilmiştir. Proje ile ilgili her tü
 
 ---
 
-© 2026 **Cihanker Yasin KISA**. Tüm hakları saklıdır. *(All rights reserved.)*
+© 2025 **Cihanker Yasin KISA**. Tüm hakları saklıdır. *(All rights reserved.)*
