@@ -29,7 +29,7 @@ Protokoller: SMTP (E-posta bildirimleri için)
 Bu proje **Yasin KISA** tarafından geliştirilmiştir. Proje ile ilgili her türlü soru veya iş birliği için bana ulaşabilirsiniz:
 
 📫 **E-posta:** (cyasinkisa@gmail.com)  
-🔗 **LinkedIn:** (https://www.linkedin.com/in/cihanker-yasin-kısa-b99970259)
+🔗 **LinkedIn:** (https://www.linkedin.com/in/cihanker-yasin-kisa-b99970259)
 
 ---
 
